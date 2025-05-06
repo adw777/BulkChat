@@ -5,7 +5,7 @@ from typing import List
 import os
 
 # Configure the API endpoint
-API_URL = "https://4cd2-2401-4900-8841-1fd8-a5b2-a8a8-6d06-5c49.ngrok-free.app/"  # Change this if your API is hosted elsewhere
+API_URL = "https://sweeping-moth-probably.ngrok-free.app/"  # Change this if your API is hosted elsewhere
 
 def upload_pdfs(files):
     """Upload multiple PDF files to the API"""
